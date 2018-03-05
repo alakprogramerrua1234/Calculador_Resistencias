@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculador de Resistencias</string>
+    <string name="primerbanda">Primer banda :</string>
+    <string name="segbanda">Segunda banda :</string>
+    <string name="tercerbanda">Tercer banda :</string>
+    <string name="cuartabanda">Cuarta banda :</string>
+    <string name="valor">Valor de la resistencia :</string>
+    <string name="CALCULAR">CALCULAR</string>
+    <string name="tolerancia">Con tolerancia de :</string>
+</resources>
